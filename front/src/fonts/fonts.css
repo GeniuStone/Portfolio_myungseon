@@ -1,0 +1,44 @@
+@font-face {
+    font-family: 'Serif';
+    src: url('./serif/NotoSerifKR-Regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SerifExtraLight';
+  src: url('./serif//NotoSerifKR-ExtraLight.otf') format('truetype');
+}
+
+@font-face {
+    font-family: 'SerifLight';
+    src: url('./serif//NotoSerifKR-Light.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SerifRegular';
+  src: url('./serif//NotoSerifKR-Regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SerifMedium';
+  src: url('./serif//NotoSerifKR-Medium.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SerifBold';
+  src: url('./serif//NotoSerifKR-Bold.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SerifSemiBold';
+  src: url('./serif//NotoSerifKR-SemiBold.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SansRegular';
+  src: url('./sans/NotoSansKR-Regular.otf') format('truetype');
+}
+
+@font-face {
+  font-family: 'SansMedium';
+  src: url('./sans/NotoSansKR-Medium.otf') format('truetype');
+}
